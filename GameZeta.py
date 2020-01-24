@@ -2,6 +2,9 @@ import serial
 import pygame
 pygame.mixer.init()
 #adding for demonstration
+#Adding for demonstration on PC
+
+
 
 #SOUNDS
 soundPregame = pygame.mixer.Sound("/home/pi/Puzzilist/Sounds/music_zapsplat_among_the_stars_no_piano.wav")
